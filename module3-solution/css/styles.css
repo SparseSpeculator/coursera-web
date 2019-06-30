@@ -1,0 +1,22 @@
+.col-sm-12 {
+  background-color: #D7B3EF;
+  margin: 15px;
+}
+.navbar-collapse ul{
+  background-color: #B3B3EF;
+}
+.navbar{
+  background-color: #7474E2;
+}
+
+.navbar-header{
+  height: 100px;
+}
+
+.navbar-brand h1{
+  color: black;
+}
+
+#menu{
+  margin-top: 50px;
+}
